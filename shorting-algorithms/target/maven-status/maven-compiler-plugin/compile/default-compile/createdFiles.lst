@@ -1,0 +1,17 @@
+com\myprj\a4\domain\utils\TshirtSizeComparator.class
+com\myprj\a4\algorithm\BubbleSort.class
+com\myprj\a4\domain\Fabric.class
+com\myprj\a4\domain\utils\TshirtFabricComparator.class
+com\myprj\a4\domain\utils\CustomChainSizeComp.class
+com\myprj\a4\AppMain.class
+com\myprj\a4\domain\Size.class
+com\myprj\a4\domain\utils\SortUtils.class
+com\myprj\a4\domain\utils\TshirtSortByAll.class
+com\myprj\a4\domain\utils\CustomChainColorComp.class
+com\myprj\a4\domain\utils\DataGenerator.class
+com\myprj\a4\domain\utils\CustomChainFabricComp.class
+com\myprj\a4\algorithm\QuickSort.class
+com\myprj\a4\domain\utils\TshirtChainedComparator.class
+com\myprj\a4\domain\Tshirt.class
+com\myprj\a4\domain\utils\TshirtColorComparator.class
+com\myprj\a4\domain\Color.class
